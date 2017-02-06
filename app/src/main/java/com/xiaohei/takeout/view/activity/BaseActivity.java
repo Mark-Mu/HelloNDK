@@ -25,7 +25,7 @@ public class BaseActivity extends AppCompatActivity {
         }
         //着色管理者
         SystemBarTintManager manger=new SystemBarTintManager(this);
-        SystemBarTintManager manger1=new SystemBarTintManager(this);
+        SystemBarTintManager dddddd=new SystemBarTintManager(this);
         //支持着色
         manger.setStatusBarTintEnabled(true);
         //设置颜色
